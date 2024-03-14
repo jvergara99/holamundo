@@ -8,6 +8,12 @@ Ingeniería de Software
 ### Principios de construcción de software ###
 
 
+Cambio realizado en:
+** feacture A **
+
+=======
+
 
 feactureB
 Cambio OOOKKKK
+
